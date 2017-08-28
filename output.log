@@ -1,0 +1,7 @@
+home is
+/var/www/idashRed/storage/recipes/test3_1_1503955567.2913/1503955567
+Template validated successfully.
+[1;32mdocker output will be in this color.[0m
+
+[1;32m==> docker: Creating a temporary directory for sharing data...[0m
+[1;32m==> docker: Pulling Docker image: ubuntu:latest[0m
